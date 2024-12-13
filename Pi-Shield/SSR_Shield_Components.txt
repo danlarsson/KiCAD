@@ -1,16 +1,6 @@
 
-SSR
+Solid State Relay
 Panasonic AQZ202D 60V 2.7A  - Divs med 1.4V - 4V, 6.4mA
 https://www.mouser.se/ProductDetail/Panasonic-Industrial-Devices/AQZ202D?qs=wKtUvITRiamx%252B1RZTBBykA%3D%3D
 https://www.mouser.se/datasheet/2/315/Panasonic_080420_AQZ-1889739.pdf
-
-
-
-LED 1.5V 6.5mA
-GPIO 3.5V. (3.3V)
-
-2V = 3.5-1.5V
-
-2V = 0.0065mA * R
-307ohm = 2 / 0.0065
 
