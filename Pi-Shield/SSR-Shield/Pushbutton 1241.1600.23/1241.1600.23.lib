@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1241.1600.23
+#/1717244/1295612/2.50/4/3/Switch
+DEF 1241.1600.23 S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "1241.1600.23" 1050 200 50 H V L CNN
+F2 "1241160023" 1050 100 50 H I L CNN
+F3 "https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_SMS.pdf" 1050 0 50 H I L CNN
+F4 "Pushbutton Switches SMS IP40 G SHORT" 1050 -100 50 H I L CNN "Description"
+F5 "4.85" 1050 -200 50 H I L CNN "Height"
+F6 "693-1241.1600.23" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Schurter/1241.1600.23?qs=JHn%2F0Af%2Fl5G1RWN8YaGCOQ%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "SCHURTER" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1241.1600.23" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NO_1 1 0 -100 200 R 50 50 0 0 P
+X NO_2 2 1200 -100 200 L 50 50 0 0 P
+X COM_1 3 1200 0 200 L 50 50 0 0 P
+X COM_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

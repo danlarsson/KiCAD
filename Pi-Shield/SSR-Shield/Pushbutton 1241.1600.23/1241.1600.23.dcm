@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1241.1600.23
+D Pushbutton Switches SMS IP40 G SHORT
+K
+F https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_SMS.pdf
+$ENDCMP
+#
+#End Doc Library

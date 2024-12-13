@@ -1,0 +1,25 @@
+Electrokit
+ArtNr, Antal
+
+R
+41015989, 1 1M 
+41018976, 2 56k
+41015985, 1 1k
+41015987, 1 10k
+41015998, 1 100k
+41015984, 1 470
+
+C
+40520003, 2 10u 5x11mm
+40520025, 2 47u 16V  5x11mm
+
+D
+40310010, 2 1N4148 DO-35
+
+IC OpAMP
+40355534, 1 NE5534
+40410008, 1 DIL-8 Hållare
+
+Audio Jack
+41004618, 2 3-pool https://www.electrokit.com/upload/product/41004/41004618/Audio-3.5mm.pdf
+

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AQZ202D
+D Panasonic 2.7 A SPNO Solid State Relay, AC/DC, PCB Mount, PhotoMOS, 60 V Maximum Load
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-315/542788.pdf
+$ENDCMP
+#
+#End Doc Library
